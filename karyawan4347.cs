@@ -14,7 +14,7 @@ namespace Responsi
 
             // pengesetan properties
             karyawan1.NIK = "19217283";
-            karyawan1.NAMA = "ADOT";
+            karyawan1.NAMA = "Rafael";
             karyawan1.GajiBulanan = 3000000;
 
             // membuat objek Karyawan 2
@@ -22,7 +22,7 @@ namespace Responsi
 
             // pengesetan properties
             karyawan2.NIK = "16969146";
-            karyawan2.NAMA = "";
+            karyawan2.NAMA = "Pael";
             karyawan2.GajiBulanan = 2000000;
 
             //pemanggilan method
